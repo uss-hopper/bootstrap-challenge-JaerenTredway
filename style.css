@@ -1,7 +1,16 @@
 /*HEADER*/
 
 /*JUMBOTRON*/
+.jumbotron .btn {
+	transition: all 1s ease-out;
+}
 
+.jumbotron .btn:focus,
+.jumbotron .btn:hover
+{
+	background-color: #59e77c;
+	color: #f6f9d5;
+}
 /*MAIN SECTION*/
 
 /*IMAGE SECTION*/
