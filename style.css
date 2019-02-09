@@ -17,8 +17,20 @@ img {
 
 .info {
     background-color: #e8e8e8;
+    width: 100%;
 }
 
 .rounded {
   border-radius: 7% !important;
 }
+
+.content-wrapper {
+    max-width: 60%;
+}
+
+@media only screen and (min-width: 735px) {
+    .info {
+        justify-content: space-between;
+    }
+}
+
