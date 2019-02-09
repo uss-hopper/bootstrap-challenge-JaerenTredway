@@ -9,3 +9,7 @@ img {
 .info {
     background-color: #e8e8e8;
 }
+
+.rounded {
+  border-radius: 7% !important;
+}
