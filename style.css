@@ -2,6 +2,11 @@ img {
     width: 15rem;
 }
 
+.infocard {
+    width: 15rem;
+    height: 15rem;
+}
+
 .intro {
     background-color: #f4f4f4;
 }
